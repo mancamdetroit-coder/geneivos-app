@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geneivos</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_videos">Videos</string>
+    <string name="tab_downloads">Downloads</string>
+    <string name="tab_chat">Chat</string>
+    <string name="update_available">Update Available</string>
+    <string name="update_message">A new version of Geneivos is available. Update now?</string>
+    <string name="update_now">Update Now</string>
+    <string name="later">Later</string>
+    <string name="downloading">Downloading update...</string>
+    <string name="no_downloads">No offline videos yet</string>
+    <string name="no_downloads_sub">Download videos from the Videos tab to watch offline</string>
+    <string name="delete">Delete</string>
+    <string name="play">Play</string>
+    <string name="login_required">Login Required</string>
+    <string name="login_required_msg">Please log in to access the video library</string>
+    <string name="go_to_login">Go to Login</string>
+</resources>

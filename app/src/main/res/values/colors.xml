@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy">#0D1B2A</color>
+    <color name="navy_dark">#091422</color>
+    <color name="blue">#1A6EBD</color>
+    <color name="blue_dark">#0D4A8A</color>
+    <color name="blue_light">#E8F3FC</color>
+    <color name="grey">#8AAFD4</color>
+    <color name="grey_dark">#3B6EA5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#15803D</color>
+    <color name="red">#B91C1C</color>
+    <color name="card_bg">#102035</color>
+    <color name="status_bar">#091422</color>
+</resources>
