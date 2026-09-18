@@ -50,5 +50,5 @@ jobs:
           password: ${{ secrets.FTP_PASS }}
           protocol: ftps
           local-dir: output/
-          server-dir: /home/mmkaplan/video_storage/app/
+          server-dir: ./
           dangerous-clean-slate: false
